@@ -1,0 +1,11 @@
+Resultado1:
+
+	Recall: 0.3367003367003367
+	Fbetascore: 0.860096267655646
+	Precision: 1
+	Threshold: 1128.962334
+
+
+
+
+ 
